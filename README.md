@@ -1,2 +1,2 @@
-# wp-theme-scaffold
-template theme to developer create advance themplate
+# Themester
+Themester - a Multipurpose WordPress Theme for building beautiful dynamic websites 
